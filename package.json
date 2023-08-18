@@ -1,0 +1,24 @@
+{
+  "name": "js09-nodejs",
+  "version": "1.0.1",
+  "description": "Uso de node y Axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/daniell2039/js09-nodejs.git"
+  },
+  "keywords": [
+    "axios",
+    "bootstrap",
+    "generation"
+  ],
+  "author": "Daniel Leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniell2039/js09-nodejs/issues"
+  },
+  "homepage": "https://github.com/daniell2039/js09-nodejs#readme"
+}
